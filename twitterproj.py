@@ -21,7 +21,7 @@ def getlist(searchterm):
 Description: takes in list of user IDs and follows that list
 input:list
 '''
-def followthot(List):
+def followbot(List):
     for x in List:
         try:
             api.CreateFriendship(user_id=x)
@@ -58,7 +58,7 @@ def main():
     while(True):
         searching=getlist("Developer")
     #follow who tweets about search term
-        followthot(searching)
+        followbot(searching)
         print("following")
         print(searching)
     #wait 1 hour
