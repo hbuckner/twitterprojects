@@ -1,8 +1,8 @@
 
-a="u2uggPWqIQ9xMHid3rA2jA9eD"
-b="uYoeLAOSuApdtwUhi3oHK00ZrTq0BdhvP4EJ6eLy3GKUWEDy9z"
-c="173834439-1KzhkEo69bzHAW3BLH2vv7xXHZFO7enV5MAJzHKu"
-d="Hx0fQCmjXI19RTZwdASY6g62IFATeqkzyGnSmg05Y7Yat"
+a="ApiKEy"
+b="ApiKEy secret"
+c="access token"
+d="access token secret"
 
 e=True
 
